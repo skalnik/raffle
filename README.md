@@ -1,4 +1,4 @@
-Raffle App
+Raffle App ![](https://secure.travis-ci.org/skalnik/raffle.png)
 ==========
 
 This is a simple Sinatra app that allows users to input their emails and then an
